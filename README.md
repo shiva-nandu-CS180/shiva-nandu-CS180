@@ -3,4 +3,4 @@
 
 - DSA: https://www.w3schools.com/dsa/dsa_theory_graphs.php
 - https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&si=L2OYEW2dDc2BJ_7x
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6d285ead-ad37-40b4-9ed8-3b962e17c6cb" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6743f119-4a41-45c6-b425-a2df4b3007da" />
